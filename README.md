@@ -1,10 +1,13 @@
-0-1 charge 150
+#Damage amounts: 0-1 charge (blue) 150
 
-2 charges 225
+2 charges (orange) 225
 
-3 charges ~345
+3 charges (red) ~345
 
-4 (no red) 450
+4 charges (no red) 450
+
+--- 
+
 this is how the damage works
 so for example, blue will do 150, no more
 orange does 225 or so
