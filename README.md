@@ -1,4 +1,6 @@
-#Damage amounts: 0-1 charge (blue) 150
+# Damage amounts: 
+
+0-1 charge (blue) 150
 
 2 charges (orange) 225
 
